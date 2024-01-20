@@ -1,0 +1,14 @@
+Bill of Material for RGBPARKLIGHT.PRJPCB
+On 04.10.2010 ã. at 18:52:09
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ CAP                 0805             2    C1, C2                       Capacitor            
+ CAPACITOR           RA 6.3MM         1    C3                           Capacitor            
+ DUAL DIODE BAV70    SOT-23           1    D1                                                
+ DUAL DIODE BAW56    SOT-23           1    D2                                                
+ LED RGB             AF-5060          2    D3, D5                                            
+ MCP1702             SOT-23           1    U1                                                
+ NPN                 SOT-23           3    Q1, Q2, Q3                   NPN Transistor       
+ PIC12F683           SO-8             1    U2                                                
+ RES1                0603             5    R1, R2, R3, R4, R5                                

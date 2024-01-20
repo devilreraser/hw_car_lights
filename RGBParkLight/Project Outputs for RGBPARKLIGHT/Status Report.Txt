@@ -1,0 +1,16 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [RGBPARKLIGHT.PRJPCB]
+   Generated File[RGBParkLight16.GTL]
+   Generated File[RGBParkLight16.GBL]
+   Generated File[RGBParkLight16.GTS]
+   Generated File[RGBParkLight16.GBS]
+   Generated File[RGBParkLight16.GKO]
+   Generated File[RGBParkLight16.RUL]
+   Generated File[RGBParkLight16.REP]
+
+
+Files Generated   : 7
+Documents Printed : 0
+
+Finished Output Generation At 10:48:06 On 03.11.2010 ã.

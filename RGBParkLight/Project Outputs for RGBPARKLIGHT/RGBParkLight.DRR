@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RGBParkLight.PCBDOC   17.9.2010 ã.  16:24:29
+---------------------------------------------------------------------------
+
+
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII File : NCDrillOutput.TXT
+EIA File   : NCDrillOutput.DRL
+
+Tool         Hole Size          Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7mm (27.559mil)        12               127.10 mm (5.00 Inch)
+T2        0.9mm (35.433mil)        2                102.98 mm (4.05 Inch)
+---------------------------------------------------------------------------
+Totals                             14               230.08 mm (9.06 Inch)
+
+Two holes at same point : 2
+-----------------------
+3661,1548
+3819,1548
+
+Total Processing Time : 00:00:06

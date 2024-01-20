@@ -1,0 +1,13 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [Gabarit.PrjPCB]
+   Generated File[Gabarit.GTL]
+   Generated File[Gabarit.GBL]
+   Generated File[Gabarit.RUL]
+   Generated File[Gabarit.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 15:27:39 On 21.5.2010 ã.
